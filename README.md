@@ -1,3 +1,3 @@
-# Runescape-Combat-Calculator
+# C++ Projects
 
-This combat calculator was made to calculate your combat level with inputted stats. All formulas are from jagex's wiki to assure accuracy.
+This repo is mainly for C++ projects i've worked on or added to over the years.
